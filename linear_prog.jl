@@ -21,8 +21,8 @@ function takumi_LP(; verbose = true)
 
     if verbose
         println("Objective value: ", obj_value)
-        println("x = ", x_value)
-        println("y = ", y_value)
+        println("x: ", x_value)
+        println("y: ", y_value)
     end
 
 end
